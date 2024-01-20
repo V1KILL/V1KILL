@@ -1,13 +1,16 @@
 # Hello, I'm Victor Amaral
 
-<h4>Currently, I am dedicated to developing solutions for small businesses and undertaking personal projects to keep me constantly learning</h4>
+###### Currently, I am dedicated to developing solutions for small businesses and undertaking personal projects to keep me constantly learning
 
----
+![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=v1kill&show_icons=true&theme=light">
-  <img height=196em  src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1kill&hide_progress=false&layout=compact&theme=light">
+  
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=V1KILL&theme=react&border_radius=1&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+  
 </div>
+
+ ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <br>
 
