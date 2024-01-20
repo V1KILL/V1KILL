@@ -1,5 +1,9 @@
 # Hello, I'm Victor Amaral
 
+<h4>Currently, I am dedicated to developing solutions for small businesses and undertaking personal projects to keep me constantly learning</h4>
+
+---
+
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=v1kill&show_icons=true&theme=light">
   <img height=196em  src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1kill&hide_progress=false&layout=compact&theme=light">
@@ -20,6 +24,7 @@
 <br>
 
 ## ✨ Social Medias
+
 <div>
   <a href="https://www.linkedin.com/in/victor-amaral-a251aa261/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/viktoramaral/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
