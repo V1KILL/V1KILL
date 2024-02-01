@@ -1,6 +1,10 @@
 # Hello, I'm Victor Amaral
+###### BackEnd Programmer with Expertise in Django Python JavaScript MySQL And Basic Knowledge In Cloud.
 
-###### Currently, I am dedicated to developing solutions for small businesses and undertaking personal projects to keep me constantly learning
+###### Currently, I am dedicated to developing solutions for small businesses and undertaking personal projects to keep me constantly learning.
+
+###### I Am Prepared to Learn and Add Value to The Success of The Team or Company's Next Projects.
+                    
 
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
